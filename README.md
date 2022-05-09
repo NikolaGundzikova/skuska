@@ -1,0 +1,2 @@
+# skuska
+first repozitory
